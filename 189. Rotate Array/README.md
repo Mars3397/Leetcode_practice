@@ -1,3 +1,5 @@
+[題目](https://leetcode.com/problems/rotate-array/description/?envType=study-plan&id=algorithm-i)
+
 `Reverse()` 可以反轉 STL 的內容，可參考[此網站](http://imyon.github.io/cpp/2014/01/11/c++-reverse()函数的用法)
 
 > 先整個反轉，再把前面跟後面的部分各自反轉就可以有 cycle 移動的效果
