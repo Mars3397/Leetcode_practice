@@ -13,9 +13,7 @@ public:
                         break;
                     }
                 }
-                if (flag) {
-                    return i;
-                }
+                if (flag) return i;
                 i += j;
             }
         }
